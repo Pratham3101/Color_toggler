@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Color_toggler/static/css/main.779d0976.css",
+    "main.js": "/Color_toggler/static/js/main.bbc9fc16.js",
+    "index.html": "/Color_toggler/index.html",
+    "main.779d0976.css.map": "/Color_toggler/static/css/main.779d0976.css.map",
+    "main.bbc9fc16.js.map": "/Color_toggler/static/js/main.bbc9fc16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.779d0976.css",
+    "static/js/main.bbc9fc16.js"
+  ]
+}
